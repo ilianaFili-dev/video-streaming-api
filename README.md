@@ -1,7 +1,5 @@
 # Video Streaming API
 
-Technical assignment submission for Glue Reply.
-
 A REST API for a video streaming service, built with Spring Boot 3 and PostgreSQL. It handles user registration with subscription management and payment processing.
 
 ---
